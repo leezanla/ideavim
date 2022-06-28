@@ -1,0 +1,2 @@
+# ideavim
+my ideavimrc
